@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="code2" size="1.000000 0.700152" />
+    <ImageTarget name="code1" size="1.000000 0.707576" />
+    <ImageTarget name="magic" size="1.000000 1.449315" />
+    <ImageTarget name="singularidad" size="1.000000 1.384040" />
+    <ImageTarget name="trasera_magic" size="1.000000 1.428711" />
+    <ImageTarget name="heraldocaza" size="2742.000000 4037.000000" />
     <ImageTarget name="prueba" size="2398.000000 3452.000000" />
   </Tracking>
 </QCARConfig>
